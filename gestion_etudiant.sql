@@ -151,8 +151,7 @@ INSERT INTO `absence` (`date`, `nom`, `prenom`, `module`, `justifiée`, `classe`
 ('2022-03-12', 'bouneb', 'hadil', 'info', 'oui', 'INFO-1 E');
 
 
-ALTER TABLE `absence`
-  ADD PRIMARY KEY (`nom`);
+
 
 
 
