@@ -111,7 +111,7 @@ if ($_SESSION["autoriser"] != "oui") {
           </table>
           <br>
         </div>
-        <a href="modifierEtudiant.php" class="button" style="vertical-align:middle ;background-color: transparent  ;color :#031B88 ; border: 2px solid #008CBA; border-radius: 12px" type="button" onload="refresh()" class="btn btn-primary btn-block active">Actualiser</a>
+        <a href="supprimerEtudiant.php" class="button" style="vertical-align:middle ;background-color: transparent  ;color :#031B88 ; border: 2px solid #008CBA; border-radius: 12px" type="button" onload="refresh()" class="btn btn-primary btn-block active">Actualiser</a>
       </div>
     </div>
 
